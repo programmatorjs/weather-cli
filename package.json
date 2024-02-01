@@ -1,0 +1,24 @@
+{
+  "name": "wheather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Nikolai Andrianov",
+  "license": "ISC",
+  "homepage": "https://www.npmjs.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://www.npmjs.com/"
+  },
+  "bugs": {
+    "url": "https://www.npmjs.com/",
+    "email": "email@email.com"
+  }
+}
